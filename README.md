@@ -1,6 +1,6 @@
 # ✈️ Areobook - Flight Booking System
 
-![Areobook Banner](areobook.png)
+![Areobook Banner](images/areobook.png)
 
 ## 🌟 Overview
 Areobook is a modern, user-friendly flight booking platform that makes travel planning seamless and enjoyable. Built with PHP and JavaScript, it offers a robust solution for booking flights and managing travel arrangements.
